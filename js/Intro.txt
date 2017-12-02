@@ -1,0 +1,77 @@
+Points
+
+- JavaScript is one of the most open programming languages out there!
+
+- Is handled by TC39 (https://www.ecma-international.org/memento/TC39.htm) (GitHub: https://github.com/tc39)
+a committee that includes several(in normal circumstances rival) companies and all
+major browser vendors working together to make JavaScript the best possible language it can be.
+
+- The first point of discussion ( and arguing between developers ) is the very nature of JavaScript,
+  JavaScript is a very flexible language allowing developers to write the style of code they prefer
+  but it doesn’t isolate them from other coding styles and their side effects.
+
+- Most developers when they start using JavaScript will look at all the libraries
+  and stacks and whatnots available and either think
+
+  “OH MY FREAKIN’ GOD! What am I supposed to do with all this? Where do I start?
+  Who do I ask for help? What tech stack am I supposed to pick? Nothing here
+  makes sense, this is chaos!“
+
+                      OR
+
+    “OH MY FREAKIN’ GOD! Look at all these opportunities! I can write using this stack
+    or that stack or that one… SO AWESOME”
+
+- JavaScript is EVERYWHERE and the awesome part is that it’s just getting warmed up! JavaScript
+  started off very weak and not exactly useful and then JavaScript started
+  to evolve, you were suddenly able to do things!
+
+- JavaScript had a problem, a pretty big one, it was restricted to the browser but with Node in play
+  that was no longer the case and JavaScript developers jumped on the opportunity to do everything
+  with it.
+
+  ‘Front-End frameworks to quickly and easily build UI?’ Yup, there are countless UI libraries
+   out there but the most popular right now are Angular 2 / 1 ( https://angular.io/ ),
+   React (https://facebook.github.io/react/ )
+
+  ‘Back-End?’ Sure! Node, npm and it’s libraries (such as express (https://expressjs.com/)
+  will help you with that.
+
+  ‘Desktop apps?’ No problem, download Electron (https://electron.atom.io/) and you’re all set!
+
+  “But I want to write smartphone apps!”, you say? Well then just go over to Nativescript
+  (https://www.nativescript.org) or React Native (https://facebook.github.io/react-native)
+  and start coding, they both compile down to native code!
+
+- Future
+  Taking everything into account it’s safe to say JavaScript has a nice looking future in
+  front of it. The ever evolving JavaScript standards have already turned what was once
+  considered a kiddie programming language into a software development powerhouse.
+
+- Alongside HTML and CSS, JavaScript (standardized as ECMAScript) is considered one of the
+big three core components of the web. Employed by a majority of websites, JavaScript is a
+scripting language that typically runs in the browser and makes web pages dynamic and interactive.
+Today JavaScript is also quickly growing as a server-side technology since the release of Node.js in 2009.
+
+- JavaScript is not perfect but at this point in time it’s hard to beat.
+JavaScript simply can do everything, choosing JavaScript as your primary programming
+language leaves you open to switch to whichever platform: web, desktop, smartphone, IoT, etc. you fancy.
+
+At present, JavaScript can execute not only in the browser, but also on the server, or actually on any
+device where there exists a special program called the JavaScript engine.
+
+The browser has an embedded engine, sometimes it’s also called a “JavaScript virtual machine”.
+
+Different engines have different “codenames”, for example:
+
+    V8 – in Chrome and Opera.
+    SpiderMonkey – in Firefox.
+    …There are other codenames like “Trident”, “Chakra” for different versions of IE, “ChakraCore” for
+    Microsoft Edge, “Nitro” and “SquirrelFish” for Safari etc.
+
+
+/*
+* Sources :
+* https://medium.com/jsguru/why-javascript-fda221646c66
+* http://javascript.info/
+*/
