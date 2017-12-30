@@ -6,9 +6,9 @@ Step 3. DNS lookup to find the IP address of the server
 
   When we want to connect to google.com, we actually want to reach out to a server
   where google web services are hosted. One such server is having an ip address of
-  74.125.236.65. Now, if you type "http://74.125.236.65" in your browser, this will
+  74.125.236.65. Now, if you type "http://216.58.221.78" in your browser, this will
   take you to google home page itself. Which means, "http://google.com" and
-  "http://74.125.236.65" are nothing but same stuff. But, it is not so. Google has
+  "http://216.58.221.78" are nothing but same stuff. But, it is not so. Google has
   multiple servers in multiple locations to cater to the huge volume of requests
   they receive per second. Thus we should let Google decide which server is best
   suited to our needs. Using "google.com" does the job for us. When we type
