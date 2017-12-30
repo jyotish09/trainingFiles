@@ -16,3 +16,37 @@ We can’t expect the HTML5 may be the future of Web Designing, but we can say t
 of Web designing. Before the development of HTML5, we were in compulsion to work in Photoshop and
 Flash application, but with the development of HTML5, these affords has been reduced. Also a feature we
 can use is the 3D image with <canvas>, the special designed paragraph with <article> and many more.
+
+
+HTML stands for HyperText Markup Language. HTML is the main markup language for describing the structure of Web pages.
+
+Description
+
+    Hypertext is text displayed on a computer or other electronic device with references to other text
+    that the user can immediately access, usually by a mouse click or key press.
+
+    Apart from text, hypertext may contain tables, images and other presentational
+    elements. It is an easy-to-use and flexible format to share information over the Internet.
+
+    Markup Languages use sets of markup tags to characterize text elements within a document,
+    which gives instructions to the Web browser on how the document should appear.
+
+HTML Gives You Ability To:
+
+    Publish documents online with text, headings, images, lists, tables, etc.
+    Accessing online information or other web resources such as images, videos or other HTML document via hyperlinks.
+    Create forms to collect user input like login information, feedback, comments or conducting transactions with remote servers, etc.
+    Include videos, sound clips, flash movies, applications and other HTML document directly inside an HTML document.
+
+HTML Tags and Elements
+    HTML is written in the form of HTML elements consisting of markup tags. These markup tags are
+    the fundamental characteristic of HTML. Every markup tag is composed of a keyword, surrounded
+    by angle brackets, like <html>, <head>, <body>, etc.
+
+    HTML tags normally come in pairs like <html> and </html>. The first tag in a pair is the
+    opening tags the second tag is the closing tags. An opening tag and a closing tag are identical,
+    except a slash (/) after the opening angle bracket of a closing tag, to tell the browser that
+    the command has been completed. In between these tags you can add headings, paragraphs of text,
+    tables, forms, images, videos etc. For example, a paragraph, which is represented by the p element, would be written as:
+
+        <p>This is a paragraph.</p>
