@@ -1,0 +1,18 @@
+HTML5 is the newest version of Hyper Text Markup Language. The first web browser was
+introduced in 1993 and the name was MOSAIC. The development of MOSAIC was at the NCSA
+(National Center for Supercomputing Applications). Later it was discontinued to
+development on 7th of January 1997. Still the people were using the nonstandard version
+of HTML.
+
+The standard version came into existence in 1995, when HTML 2.0 was announced. Later after
+two years HTML 3.0 and after two years HTML 4.01 was announced. And still we are using the
+milestone of HTML 4.01.
+
+The First Draft of HTML5 Was announced in January 2008. And amazingly HTML5 has a broad
+browser support. Though the HTML5 is still under developing phase. And a lot of organizations
+are working and planning for the development of HTML5.
+
+We can’t expect the HTML5 may be the future of Web Designing, but we can say that this is the present
+of Web designing. Before the development of HTML5, we were in compulsion to work in Photoshop and
+Flash application, but with the development of HTML5, these affords has been reduced. Also a feature we
+can use is the 3D image with <canvas>, the special designed paragraph with <article> and many more.
