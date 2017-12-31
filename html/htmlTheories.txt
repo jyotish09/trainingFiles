@@ -1,0 +1,65 @@
+
+FYI : For examples refer the example html file
+
+Empty HTML Elements :
+
+    Empty elements (also called self-closing or void elements) are not container tags —
+that means, you can not write
+
+        <hr>some content</hr> or <br>some content</br>.
+
+    A typical example of an empty element, is the <br> element, which represents a line break.
+
+        <p>This paragraph contains <br> a line break.</p>
+
+Nested HTML Elements :
+
+    Most HTML elements can contain any number of further elements, which are, in turn,
+made up of tags, attributes, and content or other elements.
+
+        <p class="example">Here is some <em>emphasized</em> text.</p>
+
+HTML Attributes :
+
+    Attributes define additional properties of an element.
+
+        <div class="example">...</div>
+
+        eg: id, style, hidden, bgcolor
+
+    Custom Attributes
+        A new feature being introduced in HTML 5 is the addition of custom data attributes.
+
+        A custom data attribute starts with data- and would be named based on your requirement.
+        Following is the simple example −
+
+        <div class="example" data-subject="physics" data-level="complex">
+           ...
+        </div>
+
+HTML Events :
+
+    User do things like click on text and images and given links, hover over things etc. These
+    are examples of what JavaScript calls events.
+
+    Window Events : onload - script - Fires when the document has finished loading.
+    Mouse Event : onclick  - script - Fires when the user clicks the left mouse button on the element.
+    Form Events : onsubmit - script - Fires when a form is submitted.
+
+HTML Forms :
+
+    They are required to collect different kinds of user inputs, such as contact details like
+    name, email address, phone numbers, or details like credit card information, etc.
+
+    Forms contain special elements called controls like inputbox, checkboxes, radio-buttons,
+    submit buttons, etc. Users generally complete a form by modifying its controls
+    e.g. entering text, selecting items, etc. and submitting this form to a web server for processing.
+
+HTML5 Canvas :
+
+    The canvas element can be used to draw graphics on the webpage via scripting (usually JavaScript).
+    The canvas was originally introduced by Apple for the Mac OS Dashboard widgets and to power graphics
+    in the Safari web browser. Later it was adopted by the Firefox, Google Chrome and Opera. Now the
+    canvas is a part of the new HTML5 specification for next generation web technologies.
+
+Web Workers :
