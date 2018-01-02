@@ -1,0 +1,67 @@
+onclick Events :
+
+    <!DOCTYPE html>
+    <html>
+
+    <body>
+
+        <p>Click the button to trigger a function that will output "Hello World" in a p element with id="demo".</p>
+
+        <button onclick="myFunction()">Click me</button>
+
+        <p id="demo"></p>
+
+        <script>
+            function myFunction() {
+                document.getElementById("demo").innerHTML = "Hello World";
+            }
+        </script>
+
+    </body>
+
+    </html>
+
+onload Events :
+
+    <!DOCTYPE html>
+    <html>
+
+    <body onload="myFunction()">
+
+        <h1>Hello World!</h1>
+
+        <script>
+            function myFunction() {
+                alert("Page is loaded");
+            }
+        </script>
+
+    </body>
+
+    </html>
+
+Canvas :
+
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>HTML5 Canvas</title>
+        <script type="text/javascript">
+            window.onload = function() {
+                var canvas = document.getElementById("myCanvas");
+                var context = canvas.getContext("2d");
+                // A line
+                    context.moveTo(50, 150);
+                    context.lineTo(250, 50);
+                    context.stroke();
+            };
+        </script>
+    </head>
+
+    <body>
+        <canvas id="myCanvas" width="300" height="200"></canvas>
+    </body>
+
+    </html>

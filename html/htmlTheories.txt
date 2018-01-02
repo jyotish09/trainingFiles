@@ -24,6 +24,7 @@ HTML Attributes :
     Attributes define additional properties of an element.
 
         <div class="example">...</div>
+        <a href="https://www.google.com">Google</a>
 
         eg: id, style, hidden, bgcolor
 
@@ -61,5 +62,3 @@ HTML5 Canvas :
     The canvas was originally introduced by Apple for the Mac OS Dashboard widgets and to power graphics
     in the Safari web browser. Later it was adopted by the Firefox, Google Chrome and Opera. Now the
     canvas is a part of the new HTML5 specification for next generation web technologies.
-
-Web Workers :
