@@ -17,7 +17,7 @@ Nested HTML Elements :
     Most HTML elements can contain any number of further elements, which are, in turn,
 made up of tags, attributes, and content or other elements.
 
-        <p class="example">Here is some <em>emphasized</em> text.</p>
+        <p class="example">Here is some <em> emphasized </em> text.</p>
 
 HTML Attributes :
 
@@ -45,7 +45,7 @@ HTML Events :
 
     Window Events : onload - script - Fires when the document has finished loading.
     Mouse Event : onclick  - script - Fires when the user clicks the left mouse button on the element.
-    Form Events : onsubmit - script - Fires when a form is submitted.
+    Form Events : onselect - script - Fires when some text is being selected or the current selection is changed by the user.
 
 HTML Forms :
 
