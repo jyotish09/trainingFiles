@@ -1,0 +1,81 @@
+/* The :nth-child(n) selector matches every element that is the nth child, regardless of type, of its parent. */
+
+/*
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p:nth-child(2) {
+  background: red; // can be odd/even or an+b
+}
+p:nth-child(3n+0) {
+    background: red;
+}
+</style>
+</head>
+<body>
+
+<p> first </p>
+<p> second </p>
+<p> third </p>
+<p> fourth </p>
+<p> fifth </p>
+<p> sixth </p>
+<p> seventh </p>
+<p> eight </p>
+<p> ninth </p>
+
+<p><b>Note:</b> Internet Explorer 8 and earlier versions do not support the :nth-child() selector.</p>
+
+</body>
+</html>
+
+*/
+
+/* Re-arranging Boxes responive : inline-block elements are like inline elements but they can have a width and a height.*/
+
+/*
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.floating-box {
+    float: left; // display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21;
+}
+
+.after-box {
+    clear: left; // not needed
+    border: 3px solid red;
+}
+</style>
+</head>
+<body>
+
+<h2>The Old Way - using float</h2>
+
+<div class="floating-box">Floating box</div>
+<div class="floating-box">Floating box</div>
+<div class="floating-box">Floating box</div>
+<div class="floating-box">Floating box</div>
+<div class="floating-box">Floating box</div>
+<div class="floating-box">Floating box</div>
+<div class="floating-box">Floating box</div>
+<div class="floating-box">Floating box</div>
+
+<div class="after-box">Another box, after the floating boxes...</div>
+
+</body>
+</html>
+
+*/
+
+/*
+Importing
+Let’s start with the simple @import rule. This is used to bolt another stylesheet onto your existing one.
+*/
+@import url(morestyles.css);
