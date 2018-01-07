@@ -1,9 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>A simple HTML document</title>
-</head>
+<html>
+
 <body>
-    <p>Hello World!<p>
+
+    <p>Click the button to trigger a backgroundColor change.</p>
+
+    <button onmouseover="myFunction()">Click me</button>
+
+    <p id="demo"></p>
+
+    <script>
+        function random(number) {
+            return Math.floor(Math.random() * (number + 1));
+        }
+
+
+        function myFunction() {
+            var rndCol = 'rgb(' + random(255) + ',' + random(255) + ',' + random(255) + ')';
+            document.body.style.backgroundColor = rndCol;
+        }
+    </script>
+
 </body>
+
 </html>
