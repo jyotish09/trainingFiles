@@ -1,4 +1,4 @@
-IP Addres Dynamic & Static
+IP Address Dynamic & Static
 
 Inheritance CSS
 Events
