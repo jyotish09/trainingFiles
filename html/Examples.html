@@ -1,86 +1,121 @@
 onclick Events :
 
-    <!DOCTYPE html>
-    <html>
+<!DOCTYPE html>
+<html>
 
-    <body>
+<body>
 
-        <p>Click the button to trigger a function that will output "Hello World" in a p element with id="demo".</p>
+    <p>Click the button to trigger a function that will output "Hello World" in a p element with id="demo".</p>
 
-        <button onclick="myFunction()">Click me</button>
+    <button onclick="myFunction()">Click me</button>
 
-        <p id="demo"></p>
+    <p id="demo"></p>
 
-        <script>
-            function myFunction() {
-                document.getElementById("demo").innerHTML = "Hello World";
-            }
-        </script>
+    <script>
+        function myFunction() {
+            document.getElementById("demo").innerHTML = "Hello World";
+        }
+    </script>
 
-    </body>
+</body>
 
-    </html>
+</html>
+
+
+<!-- Another Example -->
+
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <p>Click the button to trigger a backgroundColor change.</p>
+
+    <button onclick="myFunction()">Click me</button>
+
+    <p id="demo"></p>
+
+    <script>
+        function random(number) {
+            return Math.floor(Math.random() * (number + 1));
+        }
+
+
+        function myFunction() {
+            var rndCol = 'rgb(' + random(255) + ',' + random(255) + ',' + random(255) + ')';
+            document.body.style.backgroundColor = rndCol;
+        }
+    </script>
+
+</body>
+
+</html>
 
 onload Events :
 
-    <!DOCTYPE html>
-    <html>
+<!DOCTYPE html>
+<html>
 
-    <body onload="myFunction()">
+<body onload="myFunction()">
 
-        <h1>Hello World!</h1>
+    <h1>Hello World!</h1>
 
-        <script>
-            function myFunction() {
-                alert("Page is loaded");
-            }
-        </script>
+    <script>
+        function myFunction() {
+            alert("Page is loaded");
+        }
+    </script>
 
-    </body>
+</body>
 
-    </html>
+</html>
 
 onselect Events :
 
-  <!DOCTYPE html>
-  <html>
+<!DOCTYPE html>
+<html>
 
-  <body>
+<body>
 
     Select some of the text: <input type="text" value="Hello world!" onselect="myFunction()">
 
     <script>
-      function myFunction() {
-        alert("You selected some text!");
-      }
+        function myFunction() {
+            alert("You selected some text!");
+        }
     </script>
 
-  </body>
+</body>
 
-  </html>
+</html>
 
 Canvas :
 
-    <!DOCTYPE html>
-    <html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 
-    <head>
-        <meta charset="UTF-8">
-        <title>HTML5 Canvas</title>
-        <script type="text/javascript">
-            window.onload = function() {
-                var canvas = document.getElementById("myCanvas");
-                var context = canvas.getContext("2d");
-                // A line
-                    context.moveTo(50, 150);
-                    context.lineTo(250, 50);
-                    context.stroke();
-            };
-        </script>
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <title>HTML5 Canvas</title>
+    <script type="text/javascript">
+        window.onload = function() {
+            var canvas = document.getElementById("myCanvas");
+            var context = canvas.getContext("2d");
+            // A line
+            context.moveTo(50, 150);
+            context.lineTo(250, 50);
+            context.stroke();
+        };
+    </script>
+</head>
 
-    <body>
-        <canvas id="myCanvas" width="300" height="200"></canvas>
-    </body>
+<body>
+    <canvas id="myCanvas" width="300" height="200"></canvas>
+</body>
 
-    </html>
+</html>
+
+
+Offline / Online Event
+
+    
