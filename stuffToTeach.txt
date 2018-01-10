@@ -5,7 +5,7 @@ Events
 
 How to Set Up Projects with AngularJS, React
 
-Image / Video Stuff
+Image / Video Stuff https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_video
 
 Mock E Commerce / YouTube
 
@@ -18,3 +18,5 @@ Calendars w/o BootStrap
 Login CSS Panel w/o BootStrap Intro
 
 Responsive Bootstrap
+
+ASYNC CALLS !!!!!!!!!!
