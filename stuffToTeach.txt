@@ -5,7 +5,7 @@ Events
 
 How to Set Up Projects with AngularJS, React
 
-Image / Video Stuff https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_video
+Image / Video Stuff 
 
 Mock E Commerce / YouTube
 

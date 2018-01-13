@@ -147,3 +147,12 @@ HTML Video Tags :
           <track src="devstories-en.vtt" label="English subtitles"
                  kind="subtitles" srclang="en" default></track>
         </video>
+
+
+################################################################################################################
+
+HTML Tricks :
+
+  https://websitesetup.org/wp-content/uploads/2014/02/HTML-CHEAT-SHEET.png
+
+  https://hacks.mozilla.org/2016/08/a-few-html-tips/
