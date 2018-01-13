@@ -11,7 +11,7 @@ Mock E Commerce / YouTube
 
 Framework
 
-AutoSuggest Cities Type / Cascading Drop Down Box
+AutoSuggest Cities Type / Cascading Drop Down Box - *
 
 Calendars w/o BootStrap
 
@@ -19,6 +19,8 @@ Login CSS Panel w/o BootStrap Intro
 
 Responsive Bootstrap
 
-ASYNC CALLS !!!!!!!!!!
-
 Web Workers / Socket
+
+ASYNC CALLS !!!!!!!!!! Intros  - *
+
+GIT Intros - *
