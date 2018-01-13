@@ -20,3 +20,5 @@ Login CSS Panel w/o BootStrap Intro
 Responsive Bootstrap
 
 ASYNC CALLS !!!!!!!!!!
+
+Web Workers / Socket
