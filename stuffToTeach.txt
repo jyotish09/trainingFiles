@@ -19,6 +19,8 @@ Login CSS Panel w/o BootStrap Intro
 
 Responsive Bootstrap
 
+Web Workers / Socket
+
 ASYNC CALLS !!!!!!!!!! Intros  - *
 
-GIT Intros - * 
+GIT Intros - *
