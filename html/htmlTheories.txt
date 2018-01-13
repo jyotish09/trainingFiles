@@ -134,3 +134,16 @@ HTML5 Canvas :
     The canvas was originally introduced by Apple for the Mac OS Dashboard widgets and to power graphics
     in the Safari web browser. Later it was adopted by the Firefox, Google Chrome and Opera. Now the
     canvas is a part of the new HTML5 specification for next generation web technologies.
+
+
+HTML Video Tags :
+
+
+        <video controls style="width:640px;height:360px;" poster="poster.png">
+          <source src="devstories.webm"
+                  type='video/webm;codecs="vp8, vorbis"' />
+          <source src="devstories.mp4"
+                  type='video/mp4;codecs="avc1.42E01E, mp4a.40.2"' />
+          <track src="devstories-en.vtt" label="English subtitles"
+                 kind="subtitles" srclang="en" default></track>
+        </video>
