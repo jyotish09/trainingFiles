@@ -30,3 +30,5 @@ GIT Intros - *
 http://britesnow.com/blog/html5-concepts-for-html5-developer
 
 https://codeincomplete.com/games/
+
+https://websitesetup.org/css3-cheat-sheet/
