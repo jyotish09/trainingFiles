@@ -5,7 +5,7 @@ Events
 
 How to Set Up Projects with AngularJS, React
 
-Image / Video Stuff 
+Image / Video Stuff
 
 Mock E Commerce / YouTube
 
@@ -24,3 +24,9 @@ Web Workers / Socket
 ASYNC CALLS !!!!!!!!!! Intros  - *
 
 GIT Intros - *
+
+-->> Read on your Own <<--
+
+http://britesnow.com/blog/html5-concepts-for-html5-developer
+
+https://codeincomplete.com/games/
