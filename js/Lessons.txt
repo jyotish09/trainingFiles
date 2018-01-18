@@ -1,0 +1,4 @@
+var surname = prompt('Greetings friend, may I enquire as to your surname?');
+So, a variable has a name and a value. {let , const , var}
+
+=> Math
