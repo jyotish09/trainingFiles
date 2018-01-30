@@ -32,3 +32,7 @@ http://britesnow.com/blog/html5-concepts-for-html5-developer
 https://codeincomplete.com/games/
 
 https://websitesetup.org/css3-cheat-sheet/
+
+https://scotch.io/bar-talk/bootstrap-3-tips-and-tricks-you-might-not-know
+
+https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
